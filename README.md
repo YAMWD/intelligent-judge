@@ -1,6 +1,6 @@
 # intelligent-judge
 
-Our paper is going to be published in te new future.
+Our paper is going to be published in the near future.
 
 Simple migration from gitlab.
 
